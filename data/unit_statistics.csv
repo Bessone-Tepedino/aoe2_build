@@ -1,0 +1,157 @@
+,building,age,hp,attack,melee armor,pierce armor,range,rate of fire,line of sight,speed,food,wood,gold,stone,training time,civilization availability,frame delay,accuracy
+militia,Barracks,,40,4,0,1,0,2,4,0.9,60,0,20,0.0,21,All,,
+man-at-arms,Barracks,,45,6,0,1,0,2,4,0.9,60,0,20,0.0,21,All,,
+long swordsman,Barracks,,60,9,1,1,0,2,4,0.9,60,0,20,0.0,21,All,,
+two-handed swordsman,Barracks,,60,12,1,1,0,2,5,0.9,60,0,20,0.0,21,All exceptPersians,,
+champion,Barracks,,70,13,1,1,0,2,5,0.9,60,0,20,0.0,21,33,,
+spearman,Barracks,,45,3,0,0,0,3,4,1,35,25,0,0.0,22,All,,
+pikeman,Barracks,,55,4,0,0,0,3,4,1,35,25,0,0.0,22,All exceptTurksandGurjaras,,
+halberdier,Barracks,,60,6,0,0,0,3,4,1,35,25,0,0.0,22,32,,
+eagle scout,Barracks,,50,4,0,2,0,2,6,1.1,25,0,50,0.0,60,3,,
+eagle warrior,Barracks,,55,7,0,3,0,2,6,1.15,25,0,50,0.0,35,3,,
+elite eagle warrior,Barracks,,60,9,0,4,0,2,6,1.3,25,0,50,0.0,20,3,,
+woad raider,Castle,,70,11,0,1,0,2,3,1.38,65,0,25,0.0,10,Celts,,
+elite woad raider,Castle,,85,14,0,1,0,2,5,1.38,65,0,25,0.0,10,Celts,,
+throwing axeman,Castle,,60,7,0,0,3,2,5,1,55,0,25,0.0,17,Franks,,
+elite throwing axeman,Castle,,70,8,1,0,4,2,6,1,55,0,25,0.0,17,Franks,,
+huskarl,Castle/Barracks,,60,10,0,6,0,2,3,1.05,80,0,40,0.0,16,Goths,,
+elite huskarl,Castle/Barracks,,70,12,0,8,0,2,5,1.05,80,0,40,0.0,16,Goths,,
+samurai,Castle,,70,10,1,1,0,1.9,4,1,50,0,30,0.0,9,Japanese,,
+elite samurai,Castle,,80,12,1,1,0,1.9,5,1,50,0,30,0.0,9,Japanese,,
+teutonic knight,Castle,,80,14,7,2,0,2,3,0.8,85,0,30,0.0,12,Teutons,,
+elite teutonic knight,Castle,,100,17,10,2,0,2,5,0.8,85,0,30,0.0,12,Teutons,,
+berserk,Castle,,54,12,1,1,0,2,3,1.05,65,0,25,0.0,14,Vikings,,
+elite berserk,Castle,,62,14,2,1,0,2,5,1.05,65,0,25,0.0,12,Vikings,,
+jaguar warrior,Castle,,65,10,1,2,0,2,3,1,60,0,30,0.0,20,Aztecs,,
+elite jaguar warrior,Castle,,75,12,2,2,0,2,5,1,60,0,30,0.0,20,Aztecs,,
+kamayuk,Castle,,70,7,1,0,1,2,4,1,65,0,30,0.0,10,Incas,,
+elite kamayuk,Castle,,80,8,1,0,1,2,5,1,65,0,30,0.0,10,Incas,,
+condottiero,Barracks,,80,10,1,0,0,1.9,6,1.2,50,0,35,0.0,18,Italiansand allies,,
+shotel warrior,Castle,,45,16,0,0,0,2,3,1.2,50,0,35,0.0,8,Ethiopians,,
+elite shotel warrior,Castle,,50,18,0,1,0,2,3,1.2,50,0,35,0.0,4,Ethiopians,,
+gbeto,Castle,,40,10,0,0,5,2,6,1.25,50,0,40,0.0,17,Malians,,
+elite gbeto,Castle,,50,13,0,0,6,2,7,1.25,50,0,40,0.0,17,Malians,,
+karambit warrior,Castle,,30,7,0,1,0,2,3,1.2,25,0,15,0.0,6,Malay,,
+elite karambit warrior,Castle,,40,8,1,1,0,2,3,1.2,25,0,15,0.0,6,Malay,,
+dismounted konnik,Castle/Krepost,,45,12,0,0,0,2.4,5,0.9,0,0,0,0.0,3,Bulgarians,,
+elite dismounted konnik,Castle/Krepost,,50,13,0,1,0,2.4,5,0.9,0,0,0,0.0,3,Bulgarians,,
+serjeant,Donjon/Castle,,50,5,2,2,0,2,3,0.9,60,0,35,0.0,16/12,Sicilians,,
+serjeant,Donjon/Castle,,75,8,3,3,0,2,3,0.9,60,0,35,0.0,12,Sicilians,,
+elite serjeant,Donjon/Castle,,85,11,4,4,0,2,5,0.9,60,0,35,0.0,12,Sicilians,,
+flemish militia,Barracks,,60,11,1,0,0,2,7,0.9,50,0,15,0.0,14,Burgundians,,
+obuch,Castle,,80,8,2,2,0,2,3,0.9,55,0,20,0.0,12,Poles,,
+elite obuch,Castle,,95,10,2,2,0,2,3,0.9,55,0,20,0.0,12,Poles,,
+urumi swordsman,Castle,,55,8,1,0,0,2,3,1.05,65,0,20,0.0,9,Dravidians,,
+elite urumi swordsman,Castle,,65,10,1,0,0,2,3,1.05,65,0,20,0.0,9,Dravidians,,
+chakram thrower,Castle,,40,3,1,0,5,2,7,1.15,65,0,30,0.0,15,Gurjaras,,
+elite chakram thrower,Castle,,50,4,1,0,6,2,8,1.15,65,0,30,0.0,15,Gurjaras,,
+ghulam,Castle,,55,8,0,3,0,2,6,1.15,30,0,45,0.0,12,Hindustanis,,
+elite ghulam,Castle,,65,10,0,6,0,2,6,1.2,30,0,45,0.0,12,Hindustanis,,
+archer,Ar. Range,,30,4,0,0,4,2,6,0.96,0,25,45,0.0,35,All,15,80
+crossbowman,Ar. Range,,35,5,0,0,5,2,7,0.96,0,25,45,0.0,27,All exceptBulgariansandSpanish,15,85
+arbalester,Ar. Range,,40,6,0,0,5,2,7,0.96,0,25,45,0.0,27,24,20,90
+skirmisher,Ar. Range,,30,2,0,3,4,3,6,0.96,25,35,0,0.0,22,All,19,90
+elite skirmisher,Ar. Range,,35,3,0,4,5,3,7,0.96,25,35,0,0.0,22,All exceptTurks,19,90
+imperial skirmisher,Ar. Range,,35,4,0,5,5,3,7,0.96,25,35,0,0.0,22,Vietnameseandallies,19,95
+cavalry archer,Ar. Range,,50,6,0,0,4,2,5,1.4,0,40,60,0.0,34,35,35,50
+heavy cavalry archer,Ar. Range,,60,7,1,0,4,2,6,1.4,0,40,60,0.0,27,28,46,50
+hand cannoneer,Ar. Range,,40,17,1,0,7,3.45,9,0.96,45,0,50,0.0,34,22,15,75
+elephant archer,Ar. Range,,230,6,0,2,4,2,7,0.9,80,0,70,0.0,32,3,24,70
+elite elephant archer,Ar. Range,,280,7,0,2,4,2,7,0.9,80,0,70,0.0,32,3,24,85
+longbowman,Castle,,35,6,0,0,5,2,7,0.96,0,35,40,0.0,18,Britons,10,70
+elite longbowman,Castle,,40,7,0,1,6,2,8,0.96,0,35,40,0.0,18,Britons,10,80
+chu ko nu,Castle,,45,8* +3*,0,0,4,3,6,0.96,0,40,35,0.0,16,Chinese,19,85
+elite chu ko nu,Castle,,50,8* +3*,0,0,4,3,6,0.96,0,40,35,0.0,13,Chinese,19,85
+mangudai,Castle,,60,6,0,0,4,2.1,6,1.4,0,55,65,0.0,26,Mongols,23,95
+elite mangudai,Castle,,60,8,1,0,4,2.1,6,1.4,0,55,65,0.0,26,Mongols,23,95
+janissary,Castle,,35,17,1,0,8,3.45,10,0.96,60,0,55,0.0,21,Turks,12,50
+elite janissary,Castle,,40,22,2,0,8,3.45,10,0.96,60,0,55,0.0,21,Turks,0,65
+war wagon,Castle,,150,9,0,3,4,2.5,7,1.2,0,115,60,0.0,21,Koreans,32,100
+elite war wagon,Castle,,200,9,0,4,5,2.5,8,1.2,0,115,60,0.0,21,Koreans,32,100
+plumed archer,Castle,,50,5,0,1,4,1.9,6,1.2,0,55,55,0.0,16,Mayans,15,80
+elite plumed archer,Castle,,65,5,0,2,5,1.9,7,1.2,0,55,55,0.0,16,Mayans,15,90
+conquistador,Castle,,55,16,2,1,6,2.9,8,1.3,60,0,70,0.0,24,Spanish,13,65
+elite conquistador,Castle,,70,18,2,2,6,2.9,9,1.3,60,0,70,0.0,24,Spanish,13,70
+slinger,Ar. Range,,40,5,0,0,5,2,7,0.96,40,0,40,0.0,25,Incas,14,90
+genoese crossbowman,Castle,,45,6,1,0,4,2,8,0.96,0,45,40,0.0,22,Italians,15,100
+elite genoese crossbowman,Castle,,50,6,1,0,4,2,8,0.96,0,45,40,0.0,19,Italians,15,100
+camel archer,Castle,,55,7,0,1,4,2,5,1.4,0,50,60,0.0,25,Berbers,15,95
+elite camel archer,Castle,,60,8,1,1,4,2,5,1.4,0,50,60,0.0,25,Berbers,15,95
+genitour,Ar. Range,,50,3,0,3,4,3,5,1.35,40,35,0,0.0,25,Berbersand allies,30,90
+elite genitour,Ar. Range,,55,4,0,4,4,3,6,1.35,40,35,0,0.0,25,Berbersand allies,30,90
+arambai,Castle,,60,12,0,1,5,2,5,1.3,0,75,60,0.0,21,Burmese,15,20
+elite arambai,Castle,,65,15,0,2,5,2,5,1.3,0,75,60,0.0,21,Burmese,15,30
+rattan archer,Castle,,40,6,0,4,4,2,6,1.1,0,50,45,0.0,16,Vietnamese,23,80
+elite rattan archer,Castle,,45,7,0,6,5,2,6,1.1,0,50,45,0.0,16,Vietnamese,23,90
+kipchak,Castle,,40,4 +3*,0,0,4,2.2,6,1.4,0,60,35,0.0,20,Cumans,0,90
+elite kipchak,Castle,,45,5 +3*,0,0,4,2.2,6,1.4,0,60,35,0.0,20,Cumans,0,90
+elite kipchak,Castle,Cuman Mercenaries,45,5 +3*,0,0,4,2.2,6,1.4,0,0,0,0.0,12,Cumansand allies,0,90
+ranged ratha,Castle,,105,5,2,1,4,2,6,1.3,0,60,60,0.0,18,Bengalis,14,80
+ranged elite ratha,Castle,,115,6,2,1,4,2,6,1.3,0,60,60,0.0,18,Bengalis,14,90
+scout cavalry,Stable,,45,5,0,2,,2,6,1.55,80,0,0,0.0,30,All,,
+light cavalry,Stable,,60,7,0,2,,2,8,1.5,80,0,0,0.0,30,All exceptTeutons,,
+hussar,Stable,,75,7,0,2,,1.9,10,1.5,80,0,0,0.0,30,23,,
+winged hussar,Stable,,80,9,1,2,,1.9,10,1.5,80,0,0,0.0,30,LithuaniansandPoles,,
+xolotl warrior,Stable,,100,10,2,2,,1.8,4,1.35,60,0,75,0.0,30,Native American only,,
+knight,Stable,,100,10,2,2,,1.8,4,1.35,60,0,75,0.0,30,35,,
+cavalier,Stable,,120,12,2,2,,1.8,4,1.35,60,0,75,0.0,30,34,,
+paladin,Stable,,160,14,2,3,,1.9,5,1.35,60,0,75,0.0,30,11,,
+camel scout,Stable,,70,4,0,0,,2,5,1.45,55,0,60,0.0,48,Gurjaras,,
+camel rider,Stable,,100,6,0,0,,2,5,1.45,55,0,60,0.0,22,13,,
+heavy camel rider,Stable,,120,7,0,0,,2,5,1.45,55,0,60,0.0,22,12,,
+imperial camel rider,Stable,,140,9,0,0,,2,5,1.45,55,0,60,0.0,20,Hindustanis,,
+battle elephant,Stable,,250,12,1,2,,2,4,0.85,110,0,70,0.0,24,6,,
+elite battle elephant,Stable,,300,14,1,3,,2,5,0.85,110,0,70,0.0,24,5,,
+steppe lancer,Stable,,60,9,0,1,,2,5,1.45,70,0,40,0.0,24,3,,
+elite steppe lancer,Stable,,80,11,0,2,,2,5,1.45,70,0,40,0.0,20,3,,
+armored elephant,Siege Workshop,,180,4,-2,140,,3,4,0.6,130,0,95,0.0,36,4,,
+siege elephant,Siege Workshop,,220,4,-2,150,,3,4,0.6,130,0,95,0.0,36,4,,
+shrivamsha rider,Stable,,55,8,0,1,,2,5,1.6,70,0,30,0.0,20,Gurjaras,,
+elite shrivamsha rider,Stable,,70,11,0,1,,1.9,6,1.6,70,0,30,0.0,20,Gurjaras,,
+cataphract,Castle,,110,9,2,1,,1.8,4,1.35,70,0,75,0.0,20,Byzantines,,
+elite cataphract,Castle,,150,12,2,1,,1.7,5,1.35,70,0,75,0.0,20,Byzantines,,
+war elephant,Castle,,450,15,1,2,,2,4,0.6,170,0,85,0.0,25,Persians,,
+elite war elephant,Castle,,600,20,1,3,,2,5,0.6,170,0,85,0.0,25,Persians,,
+mameluke,Castle,,65,8,0,0,,2,5,1.4,55,0,85,0.0,23,Saracens,,
+elite mameluke,Castle,,80,10,1,0,,2,5,1.4,55,0,85,0.0,23,Saracens,,
+tarkan,Castle/Stable,,100,8,1,3,,2.1,5,1.35,60,0,60,0.0,14/26,Huns,,
+elite tarkan,Castle/Stable,,150,11,1,4,,2.1,7,1.35,60,0,60,0.0,14/24,Huns,,
+magyar huszar,Castle,,70,9,0,2,,1.8,5,1.5,80,0,10,0.0,16,Magyars,,
+elite magyar huszar,Castle,,85,10,0,2,,1.8,6,1.5,80,0,10,0.0,16,Magyars,,
+boyar,Castle,,100,12,4,2,,1.9,5,1.3,60,0,70,0.0,15,Slavs,,
+elite boyar,Castle,,130,14,8,3,,1.9,5,1.3,60,0,70,0.0,15,Slavs,,
+konnik,Castle/Krepost,,100,12,2,1,,2.4,5,1.35,60,0,70,0.0,19,Bulgarians,,
+elite konnik,Castle/Krepost,,120,14,2,2,,2.4,5,1.35,60,0,70,0.0,19,Bulgarians,,
+leitis,Castle,,100,13,1,1,,1.9,5,1.4,70,0,50,0.0,20,Lithuanians,,
+elite leitis,Castle,,130,16,2,1,,1.9,5,1.4,70,0,50,0.0,18,Lithuanians,,
+keshik,Castle,,110,9,1,2,,1.9,5,1.4,60,0,40,0.0,17,Tatars,,
+elite keshik,Castle,,140,11,1,3,,1.9,5,1.4,60,0,40,0.0,15,Tatars,,
+coustillier,Castle,,115,8,2,2,,1.9,5,1.35,55,0,55,0.0,15,Burgundians,,
+elite coustillier,Castle,,145,11,2,2,,1.9,5,1.35,55,0,55,0.0,14,Burgundians,,
+melee ratha,Castle,,105,10,2,1,,2,6,1.3,0,0,60,0.0,18,Bengalis,,
+melee elite ratha,Castle,,115,12,2,1,,2,6,1.3,0,0,6,0.0,18,Bengalis,,
+fishing ship,Dock,,60,0,0,4,0,N/A,5,1.26,0,75,0,0.0,40,All,,
+transport ship,Dock,,100,0,4,8,0,N/A,5,1.45,0,125,0,0.0,46,All,,
+trade cog,Dock,,80,0,0,6,0,N/A,6,1.32,0,100,50,0.0,36,All,,
+galley,Dock,,120,6,0,6,5,3,7,1.43,0,90,30,0.0,60,All,,
+war galley,Dock,,135,7,0,6,6,3,8,1.43,0,90,30,0.0,36,All,,
+galleon,Dock,,165,8,0,8,7,3,9,1.43,0,90,30,0.0,36,All exceptAztecsandMalians,,
+fire galley,Dock,,100,1p + 0m,0,4,2.49,0.25,5,1.3,0,75,45,0.0,60,All exceptVikings,,
+fire ship,Dock,,120,2p + 1m,0,6,2.49,0.25,5,1.35,0,75,45,0.0,60,All exceptVikings,,
+fast fire ship,Dock,,140,3p + 1m,0,8,2.49,0.25,5,1.43,0,75,45,0.0,60,28,,
+demolition raft,Dock,,45,90,0,2,0,N/A,6,1.5,0,70,50,0.0,45,All exceptKoreans,,
+demolition ship,Dock,,60,110,0,3,0,N/A,6,1.6,0,70,50,0.0,45,All exceptKoreans,,
+heavy demolition ship,Dock,,70,140,0,5,0,N/A,6,1.6,0,70,50,0.0,45,23,,
+cannon galleon,Dock,,120,50,0,6,13,10,15,1.1,0,200,150,0.0,46,37,,
+elite cannon galleon,Dock,,150,60,0,8,15,10,17,1.1,0,200,150,0.0,46,22,,
+canoe,Dock,N/A,70,7,0,6,5,3,8,1.5,0,N/A,N/A,0.0,N/A,0,,
+dragon ship,Dock,N/A,150,4,2,8,3,0.25,6,1.4,0,N/A,N/A,0.0,N/A,0,,
+junk,Dock,N/A,75,0,0,0,0,0,7,1.21,0,N/A,N/A,0.0,N/A,0,,
+longboat,Dock,,130,7,0,6,6,3,8,1.54,0,100,50,0.0,25,Vikings,,
+elite longboat,Dock,,160,8,0,8,7,3,9,1.54,0,100,50,0.0,25,Vikings,,
+turtle ship,Dock,,200,50,6,5,6,6,8,0.9,0,180,180,0.0,50,Koreans,,
+elite turtle ship,Dock,,300,50,8,6,7,6,8,1.035,0,180,180,0.0,50,Koreans,,
+caravel,Dock,,130,6,0,8,6,3,9,1.43,0,90,40,0.0,45,Portuguese,,
+elite caravel,Dock,,150,8,0,8,7,3,9,1.43,0,90,40,0.0,45,Portuguese,,
+thirisadai,Dock,,250,9,2,10,6,3.45,8,1.3,0,180,60,0.0,40,Dravidians,,
+villager,Town Center,,25,3,0,0,0,2,4,0.8,50,0,0,,25,All,,

@@ -1,0 +1,9 @@
+villager_type,resource,rate
+farmer,food,0.32
+fisherman,food,0.43
+hunter,food,0.41
+lumberjack,wood,0.39
+gold miner,gold,0.38
+stone miner,stone,0.36
+shepherd,food,0.33
+forager,food,0.31
