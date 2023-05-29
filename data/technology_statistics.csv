@@ -1,71 +1,71 @@
-age,building,cost_join,effect,research time,food,wood,gold,stone
-,Town Center,75F,Buildings +4 Line of Sight,25.0,75,0,0,0
-,Town Center,300F 100G,Buildings +4 Line of Sight,40.0,300,0,100,0
-,University,300F 200W,Villagers build 20% faster,50.0,300,200,0,0
-,University,150F 175W,"Buildings +10% hit points, +1/+1 armor, and +3 building armor",50.0,150,175,0,0
-,University,300F 200W,"Buildings +10% hit points, +1/+1 armor, and +3 building armor",70.0,300,200,0,0
-,Castle,400F 400W,Castle HP +21%,75.0,400,400,0,0
-,Castle,150F 150G,Work rate of military buildings (except Siege Workshop) +33%,60.0,150,0,150,0
-,Town Center,175F 50W,"Villager +10% speed, +25% carrying capacity",75.0,175,50,0,0
-,Town Center,300F 200W,"Villager +10% speed +50%, carrying capacity",55.0,300,200,0,0
-,Lumber Camp,100F 50W,Villagers chop wood 20% faster,25.0,100,50,0,0
-,Lumber Camp,150F 100W,Villagers chop wood 20% faster,50.0,150,100,0,0
-,Lumber Camp,300F 200W,Villagers chop wood 10% faster,100.0,300,200,0,0
-,Mill,75F 75W,Farms +75 food,20.0,75,75,0,0
-,Mill,125F 125W,"Farms +125 food, Villagers +1 food carry capacity",40.0,125,125,0,0
-,Mill,250F 250W,Farms +175 food,70.0,250,250,0,0
-,Mining Camp,100F 75W,Villagers mine gold 15% faster,30.0,100,75,0,0
-,Mining Camp,200F 150W,Villagers mine gold 15% faster,75.0,200,150,0,0
-,Mining Camp,100F 75W,Villagers mine stone 15% faster,30.0,100,75,0,0
-,Mining Camp,200F 150W,Villagers mine stone 15% faster,75.0,200,150,0,0
-,Market,200F 200G,Trade Carts and Trade Cogs move 50% faster,40.0,200,0,200,0
-,Market,200F 100G,Tribute fee 20%,70.0,200,0,100,0
-,Market,300F 200G,Tribute fee 0%,70.0,300,0,200,0
-,Market,300F 200G,Trading fee 15%,50.0,300,0,200,0
-,Dock,150F 200W,Fishing Ships work 25% faster,,150,200,0,0
-,,475G,Monks can convert all siege units and most buildings,50.0,0,0,475,0
-,,325G,Monks can convert other Monks,40.0,0,0,325,0
-,,200G,Garrisoned units heal 6× faster,35.0,0,0,200,0
-,,"1,000G",Units converted by enemy Monks die instead of joining them,60.0,0,0,0,0
-,,120G,Monks +15 HP,60.0,0,0,120,0
-,,140G,Monks +15% speed,50.0,0,0,140,0
-,,"750F 1,000G",Units are harder for enemy Monks to convert,60.0,750,0,0,0
-,,120G,Monk rejuvenation speed +87.5%,65.0,0,0,120,0
-,,200G,Monks +3 conversion range,55.0,0,0,200,0
-,,200G,Only one Monk must rest when several convert the same target,75.0,0,0,200,0
-,Barracks,0,Infantry +2 Line of Sight,0.0,0,0,0,0
-,Barracks,75F 75G,Militia line cost -15 food,20.0,75,0,75,0
-,Barracks,100F 100G,Militia line +1 pierce armor,25.0,100,0,100,0
-,Barracks,100F,Infantry +10% speed,40.0,100,0,0,0
-,Barracks,150F 50G,Infantry +2 attack vs buildings,25.0,150,0,50,0
-,Blacksmith,150F,Infantry/cavalry +1 attack,50.0,150,0,0,0
-,Blacksmith,220F 120G,Infantry/cavalry +1 attack,75.0,220,0,120,0
-,Blacksmith,275F 225G,Infantry/cavalry +2 attack,100.0,275,0,225,0
-,Blacksmith,100F,Infantry +1/+1 armor,40.0,100,0,0,0
-,Blacksmith,200F 100G,Infantry +1/+1 armor,55.0,200,0,100,0
-,Blacksmith,300F 150G,Infantry +1/+2 armor,70.0,300,0,150,0
-,Archery Range,300F 250W,Archers fire faster and with 100% accuracy,45.0,300,250,0,0
-,Archery Range,200F 250G,Mounted archers and Arambai +1/+2 armor and +2 attack vs Spearmen,65.0,200,0,250,0
-,Blacksmith,100F 50G,"Archers, Galleys, Castles, and Towers +1 range and attack. Town Centers +1 attack and Line of Sight.",30.0,100,0,50,0
-,Blacksmith,200F 100G,"Archers, Galleys, Castles, and Towers +1 range and attack. Town Centers +1 attack and Line of Sight.",35.0,200,0,100,0
-,Blacksmith,300F 200G,"Archers, Galleys, Castles, and Towers +1 range and attack. Town Centers +1 attack and Line of Sight.",40.0,300,0,200,0
-,Blacksmith,100F,Archers +1/+1 armor,40.0,100,0,0,0
-,Blacksmith,150F 150G,Archers +1/+1 armor,55.0,150,0,150,0
-,Blacksmith,250F 250G,Archers +1/+2 armor,70.0,250,0,250,0
-,University,300W 175G,"Archers, Galleys, and defensive structures fire more accurately at moving targets",60.0,0,300,175,0
-,University,350F 100G,Towers +125% and Castles +25% attack against ships,30.0,350,0,100,0
-,University,200F 100S,Eliminates minimum range of all buildings,35.0,200,0,0,100
-,University,250F 250W,Watch Towers/Guard Towers/Keeps/Donjons +1/+2/+3/+3 attack,25.0,250,250,0,0
-,University,300F 200G,"Missile units (including siege) +1 attackPrerequisite for Hand Cannoneer, Bombard Cannon, Cannon Galleon and Bombard Tower (technology)",100.0,300,0,200,0
-,University,500F 600W,Siege weapons +1 range (except for Rams and Armored Elephants) and +20% attack vs buildings (Petards and Flaming Camels +40%),45.0,500,600,0,0
-,Stable,150F 100G,Mounted units +20 hit points,50.0,150,0,100,0
-,Stable,150F,Mounted units +10% speed,40.0,150,0,0,0
-,Blacksmith,150F,Infantry/cavalry +1 attack,50.0,150,0,0,0
-,Blacksmith,220F 120G,Infantry/cavalry +1 attack,75.0,220,0,120,0
-,Blacksmith,275F 225G,Infantry/cavalry +2 attack,100.0,275,0,225,0
-,Blacksmith,150F,Cavalry +1/+1 armor,45.0,150,0,0,0
-,Blacksmith,250F 150G,Cavalry +1/+1 armor,60.0,250,0,150,0
-,Blacksmith,350F 200G,Cavalry +1/+2 armor,75.0,350,0,200,0
-,,250F 150G,"Ship +1 pierce armor, Transport Ship +5 capacity",50.0,250,0,150,0
-,,600F 400G,"Ship +15% speed, Transport Ship +10 capacity",60.0,600,0,400,0
-,,"1,000F 300G",Ships cost -20% wood and are created +54% faster,60.0,0,0,300,0
+,age,building,cost_join,effect,research time,food,wood,gold,stone
+town watch,,Town Center,75F,Buildings +4 Line of Sight,25.0,75,0,0,0
+town patrol,,Town Center,300F 100G,Buildings +4 Line of Sight,40.0,300,0,100,0
+treadmill crane,,University,300F 200W,Villagers build 20% faster,50.0,300,200,0,0
+masonry,,University,150F 175W,"Buildings +10% hit points, +1/+1 armor, and +3 building armor",50.0,150,175,0,0
+architecture,,University,300F 200W,"Buildings +10% hit points, +1/+1 armor, and +3 building armor",70.0,300,200,0,0
+hoardings,,Castle,400F 400W,Castle HP +21%,75.0,400,400,0,0
+conscription,,Castle,150F 150G,Work rate of military buildings (except Siege Workshop) +33%,60.0,150,0,150,0
+wheelbarrow,,Town Center,175F 50W,"Villager +10% speed, +25% carrying capacity",75.0,175,50,0,0
+hand cart,,Town Center,300F 200W,"Villager +10% speed +50%, carrying capacity",55.0,300,200,0,0
+double-bit axe,,Lumber Camp,100F 50W,Villagers chop wood 20% faster,25.0,100,50,0,0
+bow saw,,Lumber Camp,150F 100W,Villagers chop wood 20% faster,50.0,150,100,0,0
+two-man saw,,Lumber Camp,300F 200W,Villagers chop wood 10% faster,100.0,300,200,0,0
+horse collar,,Mill,75F 75W,Farms +75 food,20.0,75,75,0,0
+heavy plow,,Mill,125F 125W,"Farms +125 food, Villagers +1 food carry capacity",40.0,125,125,0,0
+crop rotation,,Mill,250F 250W,Farms +175 food,70.0,250,250,0,0
+gold mining,,Mining Camp,100F 75W,Villagers mine gold 15% faster,30.0,100,75,0,0
+gold shaft mining,,Mining Camp,200F 150W,Villagers mine gold 15% faster,75.0,200,150,0,0
+stone mining,,Mining Camp,100F 75W,Villagers mine stone 15% faster,30.0,100,75,0,0
+stone shaft mining,,Mining Camp,200F 150W,Villagers mine stone 15% faster,75.0,200,150,0,0
+caravan,,Market,200F 200G,Trade Carts and Trade Cogs move 50% faster,40.0,200,0,200,0
+coinage,,Market,200F 100G,Tribute fee 20%,70.0,200,0,100,0
+banking,,Market,300F 200G,Tribute fee 0%,70.0,300,0,200,0
+guilds,,Market,300F 200G,Trading fee 15%,50.0,300,0,200,0
+gillnets,,Dock,150F 200W,Fishing Ships work 25% faster,,150,200,0,0
+redemption,,,475G,Monks can convert all siege units and most buildings,50.0,0,0,475,0
+atonement,,,325G,Monks can convert other Monks,40.0,0,0,325,0
+herbal medicine,,,200G,Garrisoned units heal 6× faster,35.0,0,0,200,0
+heresy,,,"1,000G",Units converted by enemy Monks die instead of joining them,60.0,0,0,0,0
+sanctity,,,120G,Monks +15 HP,60.0,0,0,120,0
+fervor,,,140G,Monks +15% speed,50.0,0,0,140,0
+faith,,,"750F 1,000G",Units are harder for enemy Monks to convert,60.0,750,0,0,0
+illumination,,,120G,Monk rejuvenation speed +87.5%,65.0,0,0,120,0
+block printing,,,200G,Monks +3 conversion range,55.0,0,0,200,0
+theocracy,,,200G,Only one Monk must rest when several convert the same target,75.0,0,0,200,0
+tracking,,Barracks,0,Infantry +2 Line of Sight,0.0,0,0,0,0
+supplies,,Barracks,75F 75G,Militia line cost -15 food,20.0,75,0,75,0
+gambesons,,Barracks,100F 100G,Militia line +1 pierce armor,25.0,100,0,100,0
+squires,,Barracks,100F,Infantry +10% speed,40.0,100,0,0,0
+arson,,Barracks,150F 50G,Infantry +2 attack vs buildings,25.0,150,0,50,0
+forging,,Blacksmith,150F,Infantry/cavalry +1 attack,50.0,150,0,0,0
+iron casting,,Blacksmith,220F 120G,Infantry/cavalry +1 attack,75.0,220,0,120,0
+blast furnace,,Blacksmith,275F 225G,Infantry/cavalry +2 attack,100.0,275,0,225,0
+scale mail armor,,Blacksmith,100F,Infantry +1/+1 armor,40.0,100,0,0,0
+chain mail armor,,Blacksmith,200F 100G,Infantry +1/+1 armor,55.0,200,0,100,0
+plate mail armor,,Blacksmith,300F 150G,Infantry +1/+2 armor,70.0,300,0,150,0
+thumb ring,,Archery Range,300F 250W,Archers fire faster and with 100% accuracy,45.0,300,250,0,0
+parthian tactics,,Archery Range,200F 250G,Mounted archers and Arambai +1/+2 armor and +2 attack vs Spearmen,65.0,200,0,250,0
+fletching,,Blacksmith,100F 50G,"Archers, Galleys, Castles, and Towers +1 range and attack. Town Centers +1 attack and Line of Sight.",30.0,100,0,50,0
+bodkin arrow,,Blacksmith,200F 100G,"Archers, Galleys, Castles, and Towers +1 range and attack. Town Centers +1 attack and Line of Sight.",35.0,200,0,100,0
+bracer,,Blacksmith,300F 200G,"Archers, Galleys, Castles, and Towers +1 range and attack. Town Centers +1 attack and Line of Sight.",40.0,300,0,200,0
+padded archer armor,,Blacksmith,100F,Archers +1/+1 armor,40.0,100,0,0,0
+leather archer armor,,Blacksmith,150F 150G,Archers +1/+1 armor,55.0,150,0,150,0
+ring archer armor,,Blacksmith,250F 250G,Archers +1/+2 armor,70.0,250,0,250,0
+ballistics,,University,300W 175G,"Archers, Galleys, and defensive structures fire more accurately at moving targets",60.0,0,300,175,0
+heated shot,,University,350F 100G,Towers +125% and Castles +25% attack against ships,30.0,350,0,100,0
+murder holes,,University,200F 100S,Eliminates minimum range of all buildings,35.0,200,0,0,100
+arrowslits,,University,250F 250W,Watch Towers/Guard Towers/Keeps/Donjons +1/+2/+3/+3 attack,25.0,250,250,0,0
+chemistry,,University,300F 200G,"Missile units (including siege) +1 attackPrerequisite for Hand Cannoneer, Bombard Cannon, Cannon Galleon and Bombard Tower (technology)",100.0,300,0,200,0
+siege engineers,,University,500F 600W,Siege weapons +1 range (except for Rams and Armored Elephants) and +20% attack vs buildings (Petards and Flaming Camels +40%),45.0,500,600,0,0
+bloodlines,,Stable,150F 100G,Mounted units +20 hit points,50.0,150,0,100,0
+husbandry,,Stable,150F,Mounted units +10% speed,40.0,150,0,0,0
+forging,,Blacksmith,150F,Infantry/cavalry +1 attack,50.0,150,0,0,0
+iron casting,,Blacksmith,220F 120G,Infantry/cavalry +1 attack,75.0,220,0,120,0
+blast furnace,,Blacksmith,275F 225G,Infantry/cavalry +2 attack,100.0,275,0,225,0
+scale barding armor,,Blacksmith,150F,Cavalry +1/+1 armor,45.0,150,0,0,0
+chain barding armor,,Blacksmith,250F 150G,Cavalry +1/+1 armor,60.0,250,0,150,0
+plate barding armor,,Blacksmith,350F 200G,Cavalry +1/+2 armor,75.0,350,0,200,0
+careening,,,250F 150G,"Ship +1 pierce armor, Transport Ship +5 capacity",50.0,250,0,150,0
+dry dock,,,600F 400G,"Ship +15% speed, Transport Ship +10 capacity",60.0,600,0,400,0
+shipwright,,,"1,000F 300G",Ships cost -20% wood and are created +54% faster,60.0,0,0,300,0
